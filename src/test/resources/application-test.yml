@@ -3,3 +3,4 @@ foo:
   two: true
   three: true
   four: false
+it: works
