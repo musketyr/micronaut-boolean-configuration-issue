@@ -16,7 +16,7 @@ class SomeConfigurationSpec extends Specification {
                 one
                 two
                 three
-                four
+                !four
             }
     }
 

@@ -2,3 +2,4 @@ foo:
   one: true
   two: true
   three: true
+  four: false
